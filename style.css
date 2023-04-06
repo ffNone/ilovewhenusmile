@@ -1,0 +1,9 @@
+@media (max-width : 800px) {
+    #ok {
+        margin-left: 20px !important;
+    }
+    #okk {
+        margin-left: 0 !important;
+        
+    }
+}
